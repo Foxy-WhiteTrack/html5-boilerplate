@@ -1,3 +1,4 @@
-Exercice proposé par Cyril Vivier à l'AFPA (formation dev web et mobile)
+# html5-boilerplate
+exercice pour l'afpa
 
-Permet de vérifier si l'on sait utiliser les outils de travail collaboratif!
+Permet de vérifier si l'on sait utiliser des outils de travail collaboratif
